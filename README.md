@@ -8,7 +8,11 @@
 The analysis was performed using filters and pivot tables to narrow down the data you need for specfic goal data
 
 ## Results![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89805399/138622363-c047c5c5-942d-4ec8-9048-9fbc341e5c78.png)
+This image represents the outcome of goals based on categories of money
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89805399/138622364-0fabc6c9-7ba3-4347-96c0-fba900078a44.png)
+This image represents theater outcomes and what months were more successuful vs failed vs cancelled
+
+
 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
